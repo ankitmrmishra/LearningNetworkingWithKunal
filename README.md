@@ -3,4 +3,4 @@ This repository is compilaton of all the things I'm learning from  Kunal Kushwah
 
 
 ## Learn Networking Here
-- [How Internet was Started?](/guides/content/editing-an-existing-page)
+- [How Internet was Started?](/01_introduction/introduction.md)
