@@ -35,7 +35,7 @@ Internet Assigned Numbers Authority (IANA) is responsible for the assignment of 
 
 ### To learn more about Ports Checkout @kunal-kushwaha' s youtube video on NETWORKING
 
-%[https://youtu.be/IPvYjXCsTg8] 
+[![Watch Kuanl's video here](https://img.youtube.com/vi/IPvYjXCsTg8/maxresdefault.jpg)](https://youtu.be/vt5fpE0bzSY)
 
 ## Checkout My series on Computer Networking
 
