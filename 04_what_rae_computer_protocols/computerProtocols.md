@@ -43,4 +43,4 @@ Another advantage of Protocols is that they are flexible. Many protocols are des
 
 For Learning more about Computer Networking refer to one of the best free course on networking on [Kunal Kushwaha](@kunal-kushwaha)'s Youtube Channel
 
-[watch video here](https://youtu.be/IPvYjXCsTg8)
+[![Watch Kuanl's video here](https://img.youtube.com/vi/IPvYjXCsTg8/maxresdefault.jpg)](https://youtu.be/vt5fpE0bzSY)
