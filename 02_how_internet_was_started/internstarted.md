@@ -21,3 +21,6 @@ According to Wikipedia
 *   WEB2 evolved from reading, sharing, and fetching to creating, and interacting with the user.
     
 *   WEB3.0 further moved forward to owing the internet or decentralization of the internet.
+
+### Learn More About Networking from
+[![Watch Kuanl's video here](https://img.youtube.com/vi/IPvYjXCsTg8/maxresdefault.jpg)](https://youtu.be/vt5fpE0bzSY)
