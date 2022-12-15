@@ -73,7 +73,7 @@ The arrangement of `nodes` and `links` is called network topology. They can be c
 
 ##### Refer to [Kunal Kushwaha](@kunal-kushwaha)'s YouTube video for detailed explanation of networking
 
-[[Watch the video]](https://youtu.be/IPvYjXCsTg8)
+[![Watch Kuanl's video here](https://img.youtube.com/vi/IPvYjXCsTg8/maxresdefault.jpg)](https://youtu.be/vt5fpE0bzSY)
 
 Refer to Wikipedia for a more detailed understanding
 
